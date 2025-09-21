@@ -27,13 +27,13 @@ function App() {
 
 	return (
 		<>
-			<Header />
-			<div className="alerts start-inset-0 pointer-events-none fixed top-0 z-50 w-full">
-				{alerts.map((alert) => (
-					<Alert type={alert.type} key={alert.id} />
-				))}
-			</div>
 			<BrowserRouter>
+				<Header />
+				<div className="alerts start-inset-0 pointer-events-none fixed top-0 z-50 w-full">
+					{alerts.map((alert) => (
+						<Alert type={alert.type} key={alert.id} />
+					))}
+				</div>
 				<Routes>
 					<Route path="/" element={<Home />}></Route>
 					<Route path="/products" element={<Products />}></Route>

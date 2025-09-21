@@ -2,11 +2,10 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCartShopping } from '@fortawesome/free-solid-svg-icons/faCartShopping';
 import { useCartItems } from '../stores';
 import { useEffect, useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+
 function Header() {
 	const [currentRoute, setCurrentRoute] = useState('/');
 	const totalQuantity = useCartItems((state) => state.totalQuantity);
-	const navigate = useNavigate();
 	useEffect(() => {
 		setCurrentRoute(location.pathname);
 	}, []);
@@ -16,24 +15,18 @@ function Header() {
 			<div className="px-4">
 				<ul className="flex flex-wrap items-center justify-center gap-3">
 					<li className="me-0 basis-full px-3 pt-5 pb-0 sm:me-auto sm:basis-auto sm:pt-3 sm:pb-3">
-						<a
-							className="flex justify-center sm:inline"
-							onClick={() => navigate('/')}
-						>
+						<a href="/" className="flex justify-center sm:inline">
 							<img src="/header-logo.svg" alt="Website Logo" />
 						</a>
 					</li>
 					<li className="p-3 uppercase">
-						<a onClick={() => navigate('/')}>home</a>
+						<a href="/">home</a>
 					</li>
 					<li className="p-3 uppercase">
-						<a onClick={() => navigate('/products')}>products</a>
+						<a href="/products">products</a>
 					</li>
 					<li className="p-3 uppercase">
-						<a
-							className="relative text-2xl"
-							onClick={() => navigate('/cart')}
-						>
+						<a href="/cart" className="relative text-2xl">
 							<span
 								className={`absolute ${currentRoute === '/cart' || totalQuantity === 0 ? 'hidden' : ''} start-8/10 top-1/4 flex h-7 w-7 -translate-1/2 items-center justify-center ${totalQuantity !== 0 ? 'animate-bounce' : ''} rounded-full bg-red-600 p-2 text-white`}
 							>
