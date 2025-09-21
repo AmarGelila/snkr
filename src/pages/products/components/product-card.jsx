@@ -43,7 +43,7 @@ export default function ProductCard({
 				</div>
 			</div>
 			<button
-				className="absolute end-1.5 top-1.5 rounded-xl bg-gray-700 px-4 py-2 font-medium text-white transition hover:bg-gray-600"
+				className="absolute end-1.5 top-1.5 rounded-xl bg-gray-700 px-4 py-2 font-medium text-white transition hover:cursor-pointer hover:bg-gray-600"
 				onClick={() => handlePreviewClick(productData.id, index)}
 			>
 				preview
