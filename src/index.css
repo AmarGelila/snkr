@@ -1,0 +1,26 @@
+@import 'tailwindcss';
+:root {
+	--grid: repeat(auto-fill, minmax(250px, 1fr));
+}
+@theme {
+	--animate-right: right 1s ease-in infinite;
+	--animate-pop: pop 1s ease-in;
+	@keyframes right {
+		0%,
+		100 {
+			transform: translateX(0);
+		}
+		50% {
+			transform: translateX(15px);
+		}
+	}
+	@keyframes pop {
+		0%,
+		100 {
+			transform: translateY(0);
+		}
+		50% {
+			transform: translateY(15px);
+		}
+	}
+}

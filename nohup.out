@@ -1,0 +1,395 @@
+yarn run v1.22.22
+$ vite
+
+  VITE v7.1.5  ready in 1443 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+Files in the public directory are served at the root path.
+Instead of /public/header-logo.svg, use /header-logo.svg.
+Files in the public directory are served at the root path.
+Instead of /public/hero-img.png, use /hero-img.png.
+7:29:40 AM [vite] (client) hmr update /src/index.css
+7:29:40 AM [vite] (client) hmr update /src/index.css
+Files in the public directory are served at the root path.
+Instead of /public/header-logo.svg, use /header-logo.svg.
+7:29:44 AM [vite] (client) hmr update /src/index.css
+Files in the public directory are served at the root path.
+Instead of /public/hero-img.png, use /hero-img.png.
+7:31:20 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+7:31:20 AM [vite] (client) hmr update /src/index.css
+7:31:36 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+7:31:36 AM [vite] (client) hmr update /src/index.css
+7:31:48 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+7:31:48 AM [vite] (client) hmr update /src/index.css
+7:33:19 AM [vite] (client) hmr update /src/pages/home/home.jsx, /src/index.css
+7:33:19 AM [vite] (client) hmr update /src/index.css
+7:33:28 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+7:33:28 AM [vite] (client) hmr update /src/index.css
+7:46:08 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+7:46:08 AM [vite] (client) hmr update /src/index.css
+7:46:40 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+7:46:40 AM [vite] (client) hmr update /src/index.css
+7:46:52 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+7:46:52 AM [vite] (client) hmr update /src/index.css
+7:47:24 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+7:47:24 AM [vite] (client) hmr update /src/index.css
+7:47:37 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+7:47:37 AM [vite] (client) hmr update /src/index.css
+7:49:11 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+7:49:11 AM [vite] (client) hmr update /src/index.css
+7:49:36 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+7:49:36 AM [vite] (client) hmr update /src/index.css
+7:53:39 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+7:53:39 AM [vite] (client) hmr update /src/index.css
+7:54:34 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+7:54:34 AM [vite] (client) hmr update /src/index.css
+7:54:51 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+7:54:51 AM [vite] (client) hmr update /src/index.css
+7:55:15 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+7:55:15 AM [vite] (client) hmr update /src/index.css
+7:55:21 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+7:55:21 AM [vite] (client) hmr update /src/index.css
+Files in the public directory are served at the root path.
+Instead of /public/hero-img.png, use /hero-img.png.
+Files in the public directory are served at the root path.
+Instead of /public/header-logo.svg, use /header-logo.svg.
+8:01:24 AM [vite] (client) hmr update /src/index.css
+8:02:05 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:02:05 AM [vite] (client) hmr update /src/index.css
+8:02:25 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:02:25 AM [vite] (client) hmr update /src/index.css
+8:03:38 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:03:38 AM [vite] (client) hmr update /src/index.css
+8:05:43 AM [vite] (client) hmr update /src/index.css
+8:05:43 AM [vite] (client) hmr update /src/index.css
+8:06:47 AM [vite] (client) hmr update /src/index.css
+8:06:47 AM [vite] (client) hmr update /src/index.css
+8:07:10 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:07:10 AM [vite] (client) hmr update /src/index.css
+8:07:13 AM [vite] (client) hmr update /src/index.css
+8:07:13 AM [vite] (client) hmr update /src/index.css
+Files in the public directory are served at the root path.
+Instead of /public/header-logo.svg, use /header-logo.svg.
+8:07:22 AM [vite] (client) hmr update /src/index.css
+Files in the public directory are served at the root path.
+Instead of /public/hero-img.png, use /hero-img.png.
+8:07:22 AM [vite] (client) hmr update /src/index.css
+8:10:00 AM [vite] (client) hmr update /src/index.css
+8:10:00 AM [vite] (client) hmr update /src/index.css
+8:10:29 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:10:29 AM [vite] (client) hmr update /src/index.css
+8:12:00 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:12:00 AM [vite] (client) hmr update /src/index.css
+8:12:09 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:12:09 AM [vite] (client) hmr update /src/index.css
+8:12:39 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:12:39 AM [vite] (client) hmr update /src/index.css
+8:13:24 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:13:24 AM [vite] (client) hmr update /src/index.css
+8:13:24 AM [vite] (client) hmr update /src/index.css
+8:13:38 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:13:38 AM [vite] (client) hmr update /src/index.css
+8:14:36 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:14:36 AM [vite] (client) hmr update /src/index.css
+8:16:20 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:16:20 AM [vite] (client) hmr update /src/index.css
+8:17:13 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:17:13 AM [vite] (client) hmr update /src/index.css
+8:18:13 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:18:13 AM [vite] (client) hmr update /src/index.css
+8:18:34 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:18:34 AM [vite] (client) hmr update /src/index.css
+8:18:49 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:18:49 AM [vite] (client) hmr update /src/index.css
+8:18:56 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:18:56 AM [vite] (client) hmr update /src/index.css
+8:19:17 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:19:17 AM [vite] (client) hmr update /src/index.css
+8:19:51 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:19:51 AM [vite] (client) hmr update /src/index.css
+8:20:06 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:20:06 AM [vite] (client) hmr update /src/index.css
+8:20:22 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:20:22 AM [vite] (client) hmr update /src/index.css
+8:20:37 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:20:37 AM [vite] (client) hmr update /src/index.css
+8:20:47 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:20:47 AM [vite] (client) hmr update /src/index.css
+8:20:55 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:20:55 AM [vite] (client) hmr update /src/index.css
+8:21:09 AM [vite] (client) hmr update /src/pages/products/products.jsx, /src/index.css
+8:21:09 AM [vite] (client) hmr update /src/index.css
+8:27:26 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:27:26 AM [vite] (client) hmr update /src/index.css
+8:30:51 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:30:51 AM [vite] (client) hmr update /src/index.css
+Files in the public directory are served at the root path.
+Instead of /public/header-logo.svg, use /header-logo.svg.
+8:31:04 AM [vite] (client) hmr update /src/index.css
+Files in the public directory are served at the root path.
+Instead of /public/hero-img.png, use /hero-img.png.
+8:31:04 AM [vite] (client) hmr update /src/index.css
+8:31:31 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:31:31 AM [vite] (client) hmr update /src/index.css
+8:31:41 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:31:41 AM [vite] (client) hmr update /src/index.css
+8:33:53 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:33:53 AM [vite] (client) hmr update /src/index.css
+8:34:10 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:34:10 AM [vite] (client) hmr update /src/index.css
+Files in the public directory are served at the root path.
+Instead of /public/header-logo.svg, use /header-logo.svg.
+8:39:41 AM [vite] (client) hmr update /src/index.css
+Files in the public directory are served at the root path.
+Instead of /public/hero-img.png, use /hero-img.png.
+8:39:41 AM [vite] (client) hmr update /src/index.css
+8:42:05 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:42:05 AM [vite] (client) hmr update /src/index.css
+8:42:08 AM [vite] (client) ✨ new dependencies optimized: @fortawesome/free-solid-svg-icons/faTrash
+8:42:08 AM [vite] (client) ✨ optimized dependencies changed. reloading
+8:42:08 AM [vite] (client) hmr update /src/index.css
+Files in the public directory are served at the root path.
+Instead of /public/header-logo.svg, use /header-logo.svg.
+8:42:10 AM [vite] (client) hmr update /src/index.css
+Files in the public directory are served at the root path.
+Instead of /public/hero-img.png, use /hero-img.png.
+8:43:05 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:43:05 AM [vite] (client) hmr update /src/index.css
+8:45:07 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:45:07 AM [vite] (client) hmr update /src/index.css
+8:45:14 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:45:14 AM [vite] (client) hmr update /src/index.css
+8:46:06 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:46:06 AM [vite] (client) hmr update /src/index.css
+8:46:47 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:46:47 AM [vite] (client) hmr update /src/index.css
+8:46:57 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:46:57 AM [vite] (client) hmr update /src/index.css
+8:47:21 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:47:21 AM [vite] (client) hmr update /src/index.css
+8:47:30 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:47:30 AM [vite] (client) hmr update /src/index.css
+Files in the public directory are served at the root path.
+Instead of /public/header-logo.svg, use /header-logo.svg.
+8:47:42 AM [vite] (client) hmr update /src/index.css
+Files in the public directory are served at the root path.
+Instead of /public/hero-img.png, use /hero-img.png.
+8:47:42 AM [vite] (client) hmr update /src/index.css
+Files in the public directory are served at the root path.
+Instead of /public/header-logo.svg, use /header-logo.svg.
+8:47:46 AM [vite] (client) hmr update /src/index.css
+Files in the public directory are served at the root path.
+Instead of /public/hero-img.png, use /hero-img.png.
+8:47:46 AM [vite] (client) hmr update /src/index.css
+8:48:29 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:48:29 AM [vite] (client) hmr update /src/index.css
+8:49:03 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:49:03 AM [vite] (client) hmr update /src/index.css
+8:49:33 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:49:33 AM [vite] (client) hmr update /src/index.css
+8:49:41 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:49:41 AM [vite] (client) hmr update /src/index.css
+8:49:47 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:49:47 AM [vite] (client) hmr update /src/index.css
+8:50:10 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:50:10 AM [vite] (client) hmr update /src/index.css
+8:50:33 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:50:33 AM [vite] (client) hmr update /src/index.css
+8:50:40 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:50:41 AM [vite] (client) hmr update /src/index.css
+8:50:41 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:51:43 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:51:43 AM [vite] (client) hmr update /src/index.css
+8:51:57 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:51:57 AM [vite] (client) hmr update /src/index.css
+8:52:19 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:52:19 AM [vite] (client) hmr update /src/index.css
+8:55:26 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:55:26 AM [vite] (client) hmr update /src/index.css
+8:56:08 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:56:08 AM [vite] (client) hmr update /src/index.css
+8:56:18 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:56:18 AM [vite] (client) hmr update /src/index.css
+8:56:36 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:56:36 AM [vite] (client) hmr update /src/index.css
+8:57:15 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:57:15 AM [vite] (client) hmr update /src/index.css
+8:57:50 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:57:50 AM [vite] (client) hmr update /src/index.css
+8:58:07 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:58:07 AM [vite] (client) hmr update /src/index.css
+8:58:19 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:58:19 AM [vite] (client) hmr update /src/index.css
+8:58:50 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:58:50 AM [vite] (client) hmr update /src/index.css
+8:59:31 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:59:31 AM [vite] (client) hmr update /src/index.css
+8:59:40 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+8:59:40 AM [vite] (client) hmr update /src/index.css
+9:00:29 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+9:00:29 AM [vite] (client) hmr update /src/index.css
+9:00:39 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+9:00:39 AM [vite] (client) hmr update /src/index.css
+9:00:56 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+9:00:56 AM [vite] (client) hmr update /src/index.css
+9:01:29 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+9:01:29 AM [vite] (client) hmr update /src/index.css
+9:01:52 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+9:01:52 AM [vite] (client) hmr update /src/index.css
+9:02:41 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+9:02:41 AM [vite] (client) hmr update /src/index.css
+9:02:57 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+9:02:57 AM [vite] (client) hmr update /src/index.css
+9:03:25 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+9:03:25 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+9:03:25 AM [vite] (client) hmr update /src/index.css
+9:03:51 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+9:03:51 AM [vite] (client) hmr update /src/index.css
+9:04:15 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+9:04:15 AM [vite] (client) hmr update /src/index.css
+Files in the public directory are served at the root path.
+Instead of /public/header-logo.svg, use /header-logo.svg.
+9:04:39 AM [vite] (client) hmr update /src/index.css
+Files in the public directory are served at the root path.
+Instead of /public/hero-img.png, use /hero-img.png.
+9:04:39 AM [vite] (client) hmr update /src/index.css
+9:10:06 AM [vite] (client) hmr update /src/pages/cart/cart.jsx, /src/index.css
+9:10:06 AM [vite] (client) hmr update /src/index.css
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/local/share/doc /usr/local/share/doc none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/local/share/doc" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gimp/2.0/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/javascript /usr/share/javascript none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/javascript" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/libreoffice/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme /usr/share/sphinx_rtd_theme none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+[2118:2118:0917/102629.663232:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.Secret.Service.ReadAlias: object_path= /org/freedesktop/secrets: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.63" (uid=1000 pid=2118 comm="/snap/brave/543/opt/brave.com/brave/brave" label="snap.brave.brave (enforce)") interface="org.freedesktop.Secret.Service" member="ReadAlias" error name="(unset)" requested_reply="0" destination="org.freedesktop.secrets" (uid=1000 pid=1276 comm="/usr/bin/gnome-keyring-daemon --foreground --compo" label="unconfined")
+libva error: /snap/brave/543/gnome-platform/usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+
+(brave:2118): IBUS-WARNING **: 10:26:32.224: Failed to mkdir /home/amar-essam-gelila/snap/brave/543/.config/ibus/bus: Not a directory
+[2118:2118:0917/102755.975095:ERROR:ui/gfx/x/atom_cache.cc:232] Add chromium/from-privileged to kAtomsToCache
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/local/share/doc /usr/local/share/doc none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/local/share/doc" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gimp/2.0/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/javascript /usr/share/javascript none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/javascript" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/libreoffice/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme /usr/share/sphinx_rtd_theme none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+[2069:2069:0917/165943.925888:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.Secret.Service.ReadAlias: object_path= /org/freedesktop/secrets: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.68" (uid=1000 pid=2069 comm="/snap/brave/543/opt/brave.com/brave/brave" label="snap.brave.brave (enforce)") interface="org.freedesktop.Secret.Service" member="ReadAlias" error name="(unset)" requested_reply="0" destination="org.freedesktop.secrets" (uid=1000 pid=1298 comm="/usr/bin/gnome-keyring-daemon --foreground --compo" label="unconfined")
+libva error: /snap/brave/543/gnome-platform/usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+
+(brave:2069): IBUS-WARNING **: 16:59:58.865: Failed to mkdir /home/amar-essam-gelila/snap/brave/543/.config/ibus/bus: Not a directory
+[2069:2069:0917/171746.403237:ERROR:mojo/public/cpp/bindings/lib/interface_endpoint_client.cc:732] Message 0 rejected by interface blink.mojom.WidgetHost
+[2069:2069:0917/172136.520775:ERROR:mojo/public/cpp/bindings/lib/interface_endpoint_client.cc:732] Message 0 rejected by interface blink.mojom.WidgetHost
+Fontconfig error: Cannot load default config file: No such file: (null)
+[2132:2144:0917/174436.385677:ERROR:net/socket/ssl_client_socket_impl.cc:915] handshake failed; returned -1, SSL error code 1, net_error -101
+[2132:2144:0917/174506.402253:ERROR:net/socket/ssl_client_socket_impl.cc:915] handshake failed; returned -1, SSL error code 1, net_error -101
+[2069:2069:0917/183013.125161:ERROR:ui/gfx/x/atom_cache.cc:232] Add chromium/from-privileged to kAtomsToCache
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/local/share/doc /usr/local/share/doc none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/local/share/doc" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gimp/2.0/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/javascript /usr/share/javascript none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/javascript" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/libreoffice/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme /usr/share/sphinx_rtd_theme none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+[1851:1851:0918/075235.553604:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.Secret.Service.ReadAlias: object_path= /org/freedesktop/secrets: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.56" (uid=1000 pid=1851 comm="/snap/brave/543/opt/brave.com/brave/brave" label="snap.brave.brave (enforce)") interface="org.freedesktop.Secret.Service" member="ReadAlias" error name="(unset)" requested_reply="0" destination="org.freedesktop.secrets" (uid=1000 pid=1283 comm="/usr/bin/gnome-keyring-daemon --foreground --compo" label="unconfined")
+libva error: /snap/brave/543/gnome-platform/usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+[1851:1851:0918/075237.574501:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.DBus.ListActivatableNames: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.54" (uid=1000 pid=1851 comm="/snap/brave/543/opt/brave.com/brave/brave" label="snap.brave.brave (enforce)") interface="org.freedesktop.DBus" member="ListActivatableNames" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+[1851:1851:0918/075237.574619:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.DBus.ListActivatableNames: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.54" (uid=1000 pid=1851 comm="/snap/brave/543/opt/brave.com/brave/brave" label="snap.brave.brave (enforce)") interface="org.freedesktop.DBus" member="ListActivatableNames" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+
+(brave:1851): IBUS-WARNING **: 07:52:39.778: Failed to mkdir /home/amar-essam-gelila/snap/brave/543/.config/ibus/bus: Not a directory
+[1851:1851:0918/083738.573416:ERROR:mojo/public/cpp/bindings/lib/interface_endpoint_client.cc:732] Message 0 rejected by interface blink.mojom.WidgetHost
+[1851:1851:0918/084638.705390:ERROR:CONSOLE:0] "Blocked script execution in 'data:text/html;charset=utf-8,%3C!doctype%20html%3E%0A%3Chtml%20lang%3D%22en%22%3E%0A%09%3Chead%3E%0A%09%09%3Cscript%20type%3D%22module%22%3Eimport%20%7B%20injectIntoGlobalHook%20%7D%20from%20%22%2F%40react-refresh%22%3B%0AinjectIntoGlobalHook(window)%3B%0Awindow.%24RefreshReg%24%20%3D%20()%20%3D%3E%20%7B%7D%3B%0Awindow.%24RefreshSig%24%20%3D%20()%20%3D%3E%20(type)%20%3D%3E%20type%3B%3C%2Fscript%3E%0A%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2F%40vite%2Fclient%22%3E%3C%2Fscript%3E%0A%0A%09%09%3Cm...2UTF-8%22%20%2F%3E%0A%09%09%3Clink%20rel%3D%22icon%22%20type%3D%22image%2Fsvg%2Bxml%22%20href%3D%22%2Fvite.svg%22%20%2F%3E%0A%09%09%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D1.0%22%20%2F%3E%0A%09%09%3Ctitle%3ES%20NK%20R%3C%2Ftitle%3E%0A%09%3C%2Fhead%3E%0A%09%3Cbody%3E%0A%09%09%3Cdiv%20id%3D%22root%22%3E%3C%2Fdiv%3E%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2Fsrc%2Fmain.jsx%3Ft%3D1758174350039%22%3E%3C%2Fscript%3E%0A%09%3C%2Fbody%3E%0A%3C%2Fhtml%3E%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=utf-8,%3C!doctype%20html%3E%0A%3Chtml%20lang%3D%22en%22%3E%0A%09%3Chead%3E%0A%09%09%3Cscript%20type%3D%22module%22%3Eimport%20%7B%20injectIntoGlobalHook%20%7D%20from%20%22%2F%40react-refresh%22%3B%0AinjectIntoGlobalHook(window)%3B%0Awindow.%24RefreshReg%24%20%3D%20()%20%3D%3E%20%7B%7D%3B%0Awindow.%24RefreshSig%24%20%3D%20()%20%3D%3E%20(type)%20%3D%3E%20type%3B%3C%2Fscript%3E%0A%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2F%40vite%2Fclient%22%3E%3C%2Fscript%3E%0A%0A%09%09%3Cmeta%20charset%3D%22UTF-8%22%20%2F%3E%0A%09%09%3Clink%20rel%3D%22icon%22%20type%3D%22image%2Fsvg%2Bxml%22%20href%3D%22%2Fvite.svg%22%20%2F%3E%0A%09%09%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D1.0%22%20%2F%3E%0A%09%09%3Ctitle%3ES%20NK%20R%3C%2Ftitle%3E%0A%09%3C%2Fhead%3E%0A%09%3Cbody%3E%0A%09%09%3Cdiv%20id%3D%22root%22%3E%3C%2Fdiv%3E%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2Fsrc%2Fmain.jsx%3Ft%3D1758174350039%22%3E%3C%2Fscript%3E%0A%09%3C%2Fbody%3E%0A%3C%2Fhtml%3E%0A (0)
+[1851:1851:0918/084638.705813:ERROR:CONSOLE:0] "Blocked script execution in 'data:text/html;charset=utf-8,%3C!doctype%20html%3E%0A%3Chtml%20lang%3D%22en%22%3E%0A%09%3Chead%3E%0A%09%09%3Cscript%20type%3D%22module%22%3Eimport%20%7B%20injectIntoGlobalHook%20%7D%20from%20%22%2F%40react-refresh%22%3B%0AinjectIntoGlobalHook(window)%3B%0Awindow.%24RefreshReg%24%20%3D%20()%20%3D%3E%20%7B%7D%3B%0Awindow.%24RefreshSig%24%20%3D%20()%20%3D%3E%20(type)%20%3D%3E%20type%3B%3C%2Fscript%3E%0A%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2F%40vite%2Fclient%22%3E%3C%2Fscript%3E%0A%0A%09%09%3Cm...2UTF-8%22%20%2F%3E%0A%09%09%3Clink%20rel%3D%22icon%22%20type%3D%22image%2Fsvg%2Bxml%22%20href%3D%22%2Fvite.svg%22%20%2F%3E%0A%09%09%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D1.0%22%20%2F%3E%0A%09%09%3Ctitle%3ES%20NK%20R%3C%2Ftitle%3E%0A%09%3C%2Fhead%3E%0A%09%3Cbody%3E%0A%09%09%3Cdiv%20id%3D%22root%22%3E%3C%2Fdiv%3E%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2Fsrc%2Fmain.jsx%3Ft%3D1758174350039%22%3E%3C%2Fscript%3E%0A%09%3C%2Fbody%3E%0A%3C%2Fhtml%3E%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=utf-8,%3C!doctype%20html%3E%0A%3Chtml%20lang%3D%22en%22%3E%0A%09%3Chead%3E%0A%09%09%3Cscript%20type%3D%22module%22%3Eimport%20%7B%20injectIntoGlobalHook%20%7D%20from%20%22%2F%40react-refresh%22%3B%0AinjectIntoGlobalHook(window)%3B%0Awindow.%24RefreshReg%24%20%3D%20()%20%3D%3E%20%7B%7D%3B%0Awindow.%24RefreshSig%24%20%3D%20()%20%3D%3E%20(type)%20%3D%3E%20type%3B%3C%2Fscript%3E%0A%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2F%40vite%2Fclient%22%3E%3C%2Fscript%3E%0A%0A%09%09%3Cmeta%20charset%3D%22UTF-8%22%20%2F%3E%0A%09%09%3Clink%20rel%3D%22icon%22%20type%3D%22image%2Fsvg%2Bxml%22%20href%3D%22%2Fvite.svg%22%20%2F%3E%0A%09%09%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D1.0%22%20%2F%3E%0A%09%09%3Ctitle%3ES%20NK%20R%3C%2Ftitle%3E%0A%09%3C%2Fhead%3E%0A%09%3Cbody%3E%0A%09%09%3Cdiv%20id%3D%22root%22%3E%3C%2Fdiv%3E%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2Fsrc%2Fmain.jsx%3Ft%3D1758174350039%22%3E%3C%2Fscript%3E%0A%09%3C%2Fbody%3E%0A%3C%2Fhtml%3E%0A (0)
+[1851:1851:0918/084638.706139:ERROR:CONSOLE:0] "Blocked script execution in 'data:text/html;charset=utf-8,%3C!doctype%20html%3E%0A%3Chtml%20lang%3D%22en%22%3E%0A%09%3Chead%3E%0A%09%09%3Cscript%20type%3D%22module%22%3Eimport%20%7B%20injectIntoGlobalHook%20%7D%20from%20%22%2F%40react-refresh%22%3B%0AinjectIntoGlobalHook(window)%3B%0Awindow.%24RefreshReg%24%20%3D%20()%20%3D%3E%20%7B%7D%3B%0Awindow.%24RefreshSig%24%20%3D%20()%20%3D%3E%20(type)%20%3D%3E%20type%3B%3C%2Fscript%3E%0A%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2F%40vite%2Fclient%22%3E%3C%2Fscript%3E%0A%0A%09%09%3Cm...2UTF-8%22%20%2F%3E%0A%09%09%3Clink%20rel%3D%22icon%22%20type%3D%22image%2Fsvg%2Bxml%22%20href%3D%22%2Fvite.svg%22%20%2F%3E%0A%09%09%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D1.0%22%20%2F%3E%0A%09%09%3Ctitle%3ES%20NK%20R%3C%2Ftitle%3E%0A%09%3C%2Fhead%3E%0A%09%3Cbody%3E%0A%09%09%3Cdiv%20id%3D%22root%22%3E%3C%2Fdiv%3E%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2Fsrc%2Fmain.jsx%3Ft%3D1758174350039%22%3E%3C%2Fscript%3E%0A%09%3C%2Fbody%3E%0A%3C%2Fhtml%3E%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=utf-8,%3C!doctype%20html%3E%0A%3Chtml%20lang%3D%22en%22%3E%0A%09%3Chead%3E%0A%09%09%3Cscript%20type%3D%22module%22%3Eimport%20%7B%20injectIntoGlobalHook%20%7D%20from%20%22%2F%40react-refresh%22%3B%0AinjectIntoGlobalHook(window)%3B%0Awindow.%24RefreshReg%24%20%3D%20()%20%3D%3E%20%7B%7D%3B%0Awindow.%24RefreshSig%24%20%3D%20()%20%3D%3E%20(type)%20%3D%3E%20type%3B%3C%2Fscript%3E%0A%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2F%40vite%2Fclient%22%3E%3C%2Fscript%3E%0A%0A%09%09%3Cmeta%20charset%3D%22UTF-8%22%20%2F%3E%0A%09%09%3Clink%20rel%3D%22icon%22%20type%3D%22image%2Fsvg%2Bxml%22%20href%3D%22%2Fvite.svg%22%20%2F%3E%0A%09%09%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D1.0%22%20%2F%3E%0A%09%09%3Ctitle%3ES%20NK%20R%3C%2Ftitle%3E%0A%09%3C%2Fhead%3E%0A%09%3Cbody%3E%0A%09%09%3Cdiv%20id%3D%22root%22%3E%3C%2Fdiv%3E%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2Fsrc%2Fmain.jsx%3Ft%3D1758174350039%22%3E%3C%2Fscript%3E%0A%09%3C%2Fbody%3E%0A%3C%2Fhtml%3E%0A (0)
+[1851:1851:0918/090016.227198:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (119.859s) location=Button@ui/views/controls/button/button.cc:668
+[1851:1851:0918/090016.227556:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (119.86s) location=TabIcon@chrome/browser/ui/views/tabs/tab_icon.cc:95
+[1851:1851:0918/090716.851368:ERROR:CONSOLE:0] "Blocked script execution in 'data:text/html;charset=utf-8,%3C!doctype%20html%3E%0A%3Chtml%20lang%3D%22en%22%3E%0A%09%3Chead%3E%0A%09%09%3Cscript%20type%3D%22module%22%3Eimport%20%7B%20injectIntoGlobalHook%20%7D%20from%20%22%2F%40react-refresh%22%3B%0AinjectIntoGlobalHook(window)%3B%0Awindow.%24RefreshReg%24%20%3D%20()%20%3D%3E%20%7B%7D%3B%0Awindow.%24RefreshSig%24%20%3D%20()%20%3D%3E%20(type)%20%3D%3E%20type%3B%3C%2Fscript%3E%0A%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2F%40vite%2Fclient%22%3E%3C%2Fscript%3E%0A%0A%09%09%3Cm...2UTF-8%22%20%2F%3E%0A%09%09%3Clink%20rel%3D%22icon%22%20type%3D%22image%2Fsvg%2Bxml%22%20href%3D%22%2Fvite.svg%22%20%2F%3E%0A%09%09%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D1.0%22%20%2F%3E%0A%09%09%3Ctitle%3ES%20NK%20R%3C%2Ftitle%3E%0A%09%3C%2Fhead%3E%0A%09%3Cbody%3E%0A%09%09%3Cdiv%20id%3D%22root%22%3E%3C%2Fdiv%3E%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2Fsrc%2Fmain.jsx%3Ft%3D1758175541747%22%3E%3C%2Fscript%3E%0A%09%3C%2Fbody%3E%0A%3C%2Fhtml%3E%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=utf-8,%3C!doctype%20html%3E%0A%3Chtml%20lang%3D%22en%22%3E%0A%09%3Chead%3E%0A%09%09%3Cscript%20type%3D%22module%22%3Eimport%20%7B%20injectIntoGlobalHook%20%7D%20from%20%22%2F%40react-refresh%22%3B%0AinjectIntoGlobalHook(window)%3B%0Awindow.%24RefreshReg%24%20%3D%20()%20%3D%3E%20%7B%7D%3B%0Awindow.%24RefreshSig%24%20%3D%20()%20%3D%3E%20(type)%20%3D%3E%20type%3B%3C%2Fscript%3E%0A%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2F%40vite%2Fclient%22%3E%3C%2Fscript%3E%0A%0A%09%09%3Cmeta%20charset%3D%22UTF-8%22%20%2F%3E%0A%09%09%3Clink%20rel%3D%22icon%22%20type%3D%22image%2Fsvg%2Bxml%22%20href%3D%22%2Fvite.svg%22%20%2F%3E%0A%09%09%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D1.0%22%20%2F%3E%0A%09%09%3Ctitle%3ES%20NK%20R%3C%2Ftitle%3E%0A%09%3C%2Fhead%3E%0A%09%3Cbody%3E%0A%09%09%3Cdiv%20id%3D%22root%22%3E%3C%2Fdiv%3E%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2Fsrc%2Fmain.jsx%3Ft%3D1758175541747%22%3E%3C%2Fscript%3E%0A%09%3C%2Fbody%3E%0A%3C%2Fhtml%3E%0A (0)
+[1851:1851:0918/090716.851461:ERROR:CONSOLE:0] "Blocked script execution in 'data:text/html;charset=utf-8,%3C!doctype%20html%3E%0A%3Chtml%20lang%3D%22en%22%3E%0A%09%3Chead%3E%0A%09%09%3Cscript%20type%3D%22module%22%3Eimport%20%7B%20injectIntoGlobalHook%20%7D%20from%20%22%2F%40react-refresh%22%3B%0AinjectIntoGlobalHook(window)%3B%0Awindow.%24RefreshReg%24%20%3D%20()%20%3D%3E%20%7B%7D%3B%0Awindow.%24RefreshSig%24%20%3D%20()%20%3D%3E%20(type)%20%3D%3E%20type%3B%3C%2Fscript%3E%0A%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2F%40vite%2Fclient%22%3E%3C%2Fscript%3E%0A%0A%09%09%3Cm...2UTF-8%22%20%2F%3E%0A%09%09%3Clink%20rel%3D%22icon%22%20type%3D%22image%2Fsvg%2Bxml%22%20href%3D%22%2Fvite.svg%22%20%2F%3E%0A%09%09%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D1.0%22%20%2F%3E%0A%09%09%3Ctitle%3ES%20NK%20R%3C%2Ftitle%3E%0A%09%3C%2Fhead%3E%0A%09%3Cbody%3E%0A%09%09%3Cdiv%20id%3D%22root%22%3E%3C%2Fdiv%3E%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2Fsrc%2Fmain.jsx%3Ft%3D1758175541747%22%3E%3C%2Fscript%3E%0A%09%3C%2Fbody%3E%0A%3C%2Fhtml%3E%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=utf-8,%3C!doctype%20html%3E%0A%3Chtml%20lang%3D%22en%22%3E%0A%09%3Chead%3E%0A%09%09%3Cscript%20type%3D%22module%22%3Eimport%20%7B%20injectIntoGlobalHook%20%7D%20from%20%22%2F%40react-refresh%22%3B%0AinjectIntoGlobalHook(window)%3B%0Awindow.%24RefreshReg%24%20%3D%20()%20%3D%3E%20%7B%7D%3B%0Awindow.%24RefreshSig%24%20%3D%20()%20%3D%3E%20(type)%20%3D%3E%20type%3B%3C%2Fscript%3E%0A%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2F%40vite%2Fclient%22%3E%3C%2Fscript%3E%0A%0A%09%09%3Cmeta%20charset%3D%22UTF-8%22%20%2F%3E%0A%09%09%3Clink%20rel%3D%22icon%22%20type%3D%22image%2Fsvg%2Bxml%22%20href%3D%22%2Fvite.svg%22%20%2F%3E%0A%09%09%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D1.0%22%20%2F%3E%0A%09%09%3Ctitle%3ES%20NK%20R%3C%2Ftitle%3E%0A%09%3C%2Fhead%3E%0A%09%3Cbody%3E%0A%09%09%3Cdiv%20id%3D%22root%22%3E%3C%2Fdiv%3E%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2Fsrc%2Fmain.jsx%3Ft%3D1758175541747%22%3E%3C%2Fscript%3E%0A%09%3C%2Fbody%3E%0A%3C%2Fhtml%3E%0A (0)
+[1851:1851:0918/090716.851524:ERROR:CONSOLE:0] "Blocked script execution in 'data:text/html;charset=utf-8,%3C!doctype%20html%3E%0A%3Chtml%20lang%3D%22en%22%3E%0A%09%3Chead%3E%0A%09%09%3Cscript%20type%3D%22module%22%3Eimport%20%7B%20injectIntoGlobalHook%20%7D%20from%20%22%2F%40react-refresh%22%3B%0AinjectIntoGlobalHook(window)%3B%0Awindow.%24RefreshReg%24%20%3D%20()%20%3D%3E%20%7B%7D%3B%0Awindow.%24RefreshSig%24%20%3D%20()%20%3D%3E%20(type)%20%3D%3E%20type%3B%3C%2Fscript%3E%0A%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2F%40vite%2Fclient%22%3E%3C%2Fscript%3E%0A%0A%09%09%3Cm...2UTF-8%22%20%2F%3E%0A%09%09%3Clink%20rel%3D%22icon%22%20type%3D%22image%2Fsvg%2Bxml%22%20href%3D%22%2Fvite.svg%22%20%2F%3E%0A%09%09%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D1.0%22%20%2F%3E%0A%09%09%3Ctitle%3ES%20NK%20R%3C%2Ftitle%3E%0A%09%3C%2Fhead%3E%0A%09%3Cbody%3E%0A%09%09%3Cdiv%20id%3D%22root%22%3E%3C%2Fdiv%3E%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2Fsrc%2Fmain.jsx%3Ft%3D1758175541747%22%3E%3C%2Fscript%3E%0A%09%3C%2Fbody%3E%0A%3C%2Fhtml%3E%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=utf-8,%3C!doctype%20html%3E%0A%3Chtml%20lang%3D%22en%22%3E%0A%09%3Chead%3E%0A%09%09%3Cscript%20type%3D%22module%22%3Eimport%20%7B%20injectIntoGlobalHook%20%7D%20from%20%22%2F%40react-refresh%22%3B%0AinjectIntoGlobalHook(window)%3B%0Awindow.%24RefreshReg%24%20%3D%20()%20%3D%3E%20%7B%7D%3B%0Awindow.%24RefreshSig%24%20%3D%20()%20%3D%3E%20(type)%20%3D%3E%20type%3B%3C%2Fscript%3E%0A%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2F%40vite%2Fclient%22%3E%3C%2Fscript%3E%0A%0A%09%09%3Cmeta%20charset%3D%22UTF-8%22%20%2F%3E%0A%09%09%3Clink%20rel%3D%22icon%22%20type%3D%22image%2Fsvg%2Bxml%22%20href%3D%22%2Fvite.svg%22%20%2F%3E%0A%09%09%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D1.0%22%20%2F%3E%0A%09%09%3Ctitle%3ES%20NK%20R%3C%2Ftitle%3E%0A%09%3C%2Fhead%3E%0A%09%3Cbody%3E%0A%09%09%3Cdiv%20id%3D%22root%22%3E%3C%2Fdiv%3E%0A%09%09%3Cscript%20type%3D%22module%22%20src%3D%22%2Fsrc%2Fmain.jsx%3Ft%3D1758175541747%22%3E%3C%2Fscript%3E%0A%09%3C%2Fbody%3E%0A%3C%2Fhtml%3E%0A (0)
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/local/share/doc /usr/local/share/doc none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/local/share/doc" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gimp/2.0/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/javascript /usr/share/javascript none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/javascript" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/libreoffice/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme /usr/share/sphinx_rtd_theme none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+[1954:1954:0918/133409.356743:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.Secret.Service.ReadAlias: object_path= /org/freedesktop/secrets: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.59" (uid=1000 pid=1954 comm="/snap/brave/543/opt/brave.com/brave/brave" label="snap.brave.brave (enforce)") interface="org.freedesktop.Secret.Service" member="ReadAlias" error name="(unset)" requested_reply="0" destination="org.freedesktop.secrets" (uid=1000 pid=1305 comm="/usr/bin/gnome-keyring-daemon --foreground --compo" label="unconfined")
+libva error: /snap/brave/543/gnome-platform/usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+
+(brave:1954): IBUS-WARNING **: 13:34:15.728: Failed to mkdir /home/amar-essam-gelila/snap/brave/543/.config/ibus/bus: Not a directory
+[2014:2014:0918/133508.109079:ERROR:gpu/command_buffer/service/gles2_cmd_decoder_passthrough.cc:1100] [GroupMarkerNotSet(crbug.com/242999)!:A06014007C2C0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.
+[2014:2014:0918/133508.452905:ERROR:gpu/command_buffer/service/gl_utils.cc:391] [.WebGL-0x28140010dc00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[2014:2014:0918/133512.325405:ERROR:gpu/command_buffer/service/gl_utils.cc:391] [.WebGL-0x28140010dc00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[2014:2014:0918/133513.959964:ERROR:gpu/command_buffer/service/gl_utils.cc:391] [.WebGL-0x28140010dc00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[2014:2014:0918/133515.410628:ERROR:gpu/command_buffer/service/gl_utils.cc:391] [.WebGL-0x28140010dc00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)
+[2014:2055:0918/133526.177031:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.178772:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.178943:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.186825:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.187199:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.187416:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.187629:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.187805:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.187979:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.188156:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.188453:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.188639:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.188827:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.205887:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.206781:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.207578:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.208306:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.208903:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.209258:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.209517:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.209597:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.209678:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.209859:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.209994:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.210089:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.210315:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2014:2055:0918/133526.211071:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/local/share/doc /usr/local/share/doc none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/local/share/doc" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gimp/2.0/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/javascript /usr/share/javascript none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/javascript" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/libreoffice/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme /usr/share/sphinx_rtd_theme none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+[1880:1880:0918/150942.410133:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.Secret.Service.ReadAlias: object_path= /org/freedesktop/secrets: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.61" (uid=1000 pid=1880 comm="/snap/brave/543/opt/brave.com/brave/brave" label="snap.brave.brave (enforce)") interface="org.freedesktop.Secret.Service" member="ReadAlias" error name="(unset)" requested_reply="0" destination="org.freedesktop.secrets" (uid=1000 pid=1185 comm="/usr/bin/gnome-keyring-daemon --foreground --compo" label="unconfined")
+libva error: /snap/brave/543/gnome-platform/usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+
+(brave:1880): IBUS-WARNING **: 17:06:09.967: Failed to mkdir /home/amar-essam-gelila/snap/brave/543/.config/ibus/bus: Not a directory
+[1880:1880:0918/171859.735605:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (769.747s) location=Button@ui/views/controls/button/button.cc:668
+[1880:1880:0918/171859.735867:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (769.213s) location=TabIcon@chrome/browser/ui/views/tabs/tab_icon.cc:95
+[1880:1880:0918/171859.735919:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (757.52s) location=TabIcon@chrome/browser/ui/views/tabs/tab_icon.cc:95
+[1880:1880:0918/171859.736083:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (752.304s) location=TabIcon@chrome/browser/ui/views/tabs/tab_icon.cc:95
+[1880:1880:0918/171912.511118:ERROR:mojo/public/cpp/bindings/lib/interface_endpoint_client.cc:732] Message 0 rejected by interface blink.mojom.WidgetHost
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/local/share/doc /usr/local/share/doc none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/local/share/doc" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gimp/2.0/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/javascript /usr/share/javascript none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/javascript" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/libreoffice/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme /usr/share/sphinx_rtd_theme none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+[2150:2150:0919/072323.218037:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.Secret.Service.ReadAlias: object_path= /org/freedesktop/secrets: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.61" (uid=1000 pid=2150 comm="/snap/brave/543/opt/brave.com/brave/brave" label="snap.brave.brave (enforce)") interface="org.freedesktop.Secret.Service" member="ReadAlias" error name="(unset)" requested_reply="0" destination="org.freedesktop.secrets" (uid=1000 pid=1337 comm="/usr/bin/gnome-keyring-daemon --foreground --compo" label="unconfined")
+libva error: /snap/brave/543/gnome-platform/usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+
+(brave:2150): IBUS-WARNING **: 07:23:50.520: Failed to mkdir /home/amar-essam-gelila/snap/brave/543/.config/ibus/bus: Not a directory
+[2204:2247:0919/080541.351018:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.352554:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.353258:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.367326:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.388945:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.397756:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.399986:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.401915:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.405350:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.406490:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.419676:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.425245:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.425839:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.427063:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.428895:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.431952:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.435951:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.440903:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.441299:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.447752:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.455189:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[2204:2247:0919/080541.647070:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:521] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
