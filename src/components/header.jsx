@@ -16,10 +16,7 @@ function Header() {
 				<ul className="flex flex-wrap items-center justify-center gap-3">
 					<li className="me-0 basis-full px-3 pt-5 pb-0 sm:me-auto sm:basis-auto sm:pt-3 sm:pb-3">
 						<a href="/" className="flex justify-center sm:inline">
-							<img
-								src="../../public/header-logo.svg"
-								alt="Website Logo"
-							/>
+							<img src="/header-logo.svg" alt="Website Logo" />
 						</a>
 					</li>
 					<li className="p-3 uppercase">

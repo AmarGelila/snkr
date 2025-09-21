@@ -12,7 +12,7 @@ function Home() {
 				air max
 			</h1>
 			<img
-				src="../../../public/hero-img.png"
+				src="/hero-img.png"
 				alt="Shoes Hero Image"
 				className="absolute top-6/12 left-1/2 z-10 mt-28 h-5/6 max-w-full -translate-6/12 sm:mt-16"
 			/>
