@@ -29,10 +29,10 @@ function Product() {
 		if (inCart === true) {
 			const item = getItemFromCart(id);
 			removeFromCart(item);
-			setUserAction({ type: 'remove', id: '-' + String(id) });
+			setUserAction({ type: 'remove', id: Date.now() });
 		} else {
 			addToCart({ ...product, quantity: 1 });
-			setUserAction({ type: 'add', id: String(id) });
+			setUserAction({ type: 'add', id: Date.now() });
 		}
 	}
 

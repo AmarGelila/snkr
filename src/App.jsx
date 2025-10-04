@@ -15,13 +15,14 @@ function App() {
 	const pushAlerts = useAlerts((state) => state.pushAlerts);
 
 	useEffect(() => {
-		if (userAction !== '') {
+		let ignore = false;
+		if (userAction !== '' && !ignore) {
 			pushAlerts(userAction);
 			setTimeout(() => {
 				shiftAlerts();
-			}, 5000);
+			}, 7000);
 		}
-
+		return () => (ignore = true);
 		// eslint-disable-next-line react-hooks/exhaustive-deps
 	}, [userAction]);
 

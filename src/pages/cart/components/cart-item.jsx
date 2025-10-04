@@ -56,7 +56,7 @@ function CartItem({ product }) {
 								removeFromCart(product);
 								setUserAction({
 									type: 'remove',
-									id: '-' + String(product.id),
+									id: Date.now(),
 								});
 							}}
 						>

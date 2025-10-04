@@ -25,11 +25,11 @@ function Products() {
 		if (inCart === true) {
 			const item = getItemFromCart(id);
 			removeFromCart(item);
-			setUserAction({ type: 'remove', id: '-' + String(id) });
+			setUserAction({ type: 'remove', id: Date.now() });
 		} else {
 			const item = data[index];
 			addToCart({ ...item, quantity: 1 });
-			setUserAction({ type: 'add', id: String(id) });
+			setUserAction({ type: 'add', id: Date.now() });
 		}
 	}
 	function handlePreviewClick(productId, index) {
