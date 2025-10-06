@@ -14,14 +14,16 @@ function Alerts() {
 			const timeOutId = setTimeout(() => {
 				shiftAlerts();
 				clearTimeout(timeOutId);
-			}, 3000);
+			}, 300);
 		}
-		return () => (ignore = true);
+		return () => {
+			ignore = true;
+		};
 		// eslint-disable-next-line react-hooks/exhaustive-deps
 	}, [userAction]);
 
 	return (
-		<div className="start-inset-0 pointer-events-none fixed top-4 z-50 w-full">
+		<div className="start-inset-0 pointer-events-none fixed top-10 z-50 w-full">
 			{alerts.map((alert) => (
 				<Alert type={alert.type} key={alert.id} />
 			))}

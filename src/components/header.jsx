@@ -1,15 +1,10 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCartShopping } from '@fortawesome/free-solid-svg-icons/faCartShopping';
 import { useCartItems } from '../stores';
-import { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 function Header() {
-	const [currentRoute, setCurrentRoute] = useState('/');
 	const totalQuantity = useCartItems((state) => state.totalQuantity);
-	useEffect(() => {
-		setCurrentRoute(location.pathname);
-	}, []);
-
+	const location = useLocation();
 	return (
 		<header className="fixed z-50 w-full bg-white shadow-lg shadow-red-300/80">
 			<div className="px-4">
@@ -28,7 +23,7 @@ function Header() {
 					<li className="p-3 uppercase">
 						<Link to="/cart" className="relative text-2xl">
 							<span
-								className={`absolute ${currentRoute === '/cart' || totalQuantity === 0 ? 'hidden' : ''} start-8/10 top-1/4 flex h-7 w-7 -translate-1/2 items-center justify-center ${totalQuantity !== 0 ? 'animate-bounce' : ''} rounded-full bg-red-600 p-2 text-white`}
+								className={`absolute ${location.pathname === '/cart' || totalQuantity === 0 ? 'hidden' : ''} start-8/10 top-1/4 flex h-7 w-7 -translate-1/2 items-center justify-center ${totalQuantity !== 0 ? 'animate-bounce' : ''} rounded-full bg-red-600 p-2 text-white`}
 							>
 								{totalQuantity}
 							</span>
