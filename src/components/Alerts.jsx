@@ -1,5 +1,5 @@
 import Alert from './Alert.jsx';
-import { useAlerts } from './stores';
+import { useAlerts } from '../stores';
 import { useEffect } from 'react';
 function Alerts() {
 	const userAction = useAlerts((state) => state.userAction);
@@ -8,17 +8,13 @@ function Alerts() {
 	const pushAlerts = useAlerts((state) => state.pushAlerts);
 
 	useEffect(() => {
-		let ignore = false;
-		if (userAction !== '' && !ignore) {
+		if (userAction !== '') {
 			pushAlerts(userAction);
 			const timeOutId = setTimeout(() => {
 				shiftAlerts();
 				clearTimeout(timeOutId);
-			}, 300);
+			}, 3000);
 		}
-		return () => {
-			ignore = true;
-		};
 		// eslint-disable-next-line react-hooks/exhaustive-deps
 	}, [userAction]);
 
