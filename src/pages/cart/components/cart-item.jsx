@@ -2,11 +2,12 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTrash } from '@fortawesome/free-solid-svg-icons/faTrash';
 import { useCartItems } from '../../../stores';
 import { useAlerts } from '../../../stores';
+import { memo } from 'react';
 
-function CartItem({ product }) {
+const CartItem = memo(({ product }) => {
 	const updateQuantity = useCartItems((state) => state.updateQuantity);
 	const removeFromCart = useCartItems((state) => state.removeFromCart);
-	const setUserAction = useAlerts((state) => state.setUserAction);
+	const setNewAlert = useAlerts((state) => state.setNewAlert);
 
 	return (
 		<div className="product transiation mb-5 overflow-hidden rounded-2xl border-4 border-gray-100 transition hover:cursor-pointer hover:shadow-lg hover:shadow-red-400/90">
@@ -54,9 +55,10 @@ function CartItem({ product }) {
 							className="ms-3 rounded-full bg-red-200 p-2 text-red-900 transition hover:cursor-pointer hover:bg-red-500"
 							onClick={() => {
 								removeFromCart(product);
-								setUserAction({
+								setNewAlert({
+									key: Date.now(),
 									type: 'remove',
-									id: Date.now(),
+									text: product.name.slice(0, 15) + ' ',
 								});
 							}}
 						>
@@ -67,6 +69,6 @@ function CartItem({ product }) {
 			</div>
 		</div>
 	);
-}
+});
 
 export default CartItem;

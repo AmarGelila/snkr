@@ -1,13 +1,13 @@
 import { create } from 'zustand';
 
 const useAlerts = create((set) => ({
-	userAction: '',
-	setUserAction: (action) => set({ userAction: action }),
+	newAlert: null,
+	setNewAlert: (alert) => set({ newAlert: alert }),
 	alerts: new Array(),
 	shiftAlerts: () => set((state) => ({ alerts: state.alerts.slice(1) })),
-	pushAlerts: (action) =>
+	pushAlerts: (alert) =>
 		set((state) => ({
-			alerts: [...state.alerts, action],
+			alerts: [...state.alerts, alert],
 		})),
 }));
 

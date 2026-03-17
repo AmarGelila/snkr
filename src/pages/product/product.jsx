@@ -1,40 +1,18 @@
-import React from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHeart } from '@fortawesome/free-solid-svg-icons';
 import { useLocation } from 'react-router-dom';
 import { useProductsData } from '../../stores';
 import { useCartItems } from '../../stores';
 import { useEffect } from 'react';
-import { useAlerts } from '../../stores';
+import { isInCart } from '../../utils/utils';
+import AddToCartBtn from '../../components/AddToCartBtn';
+import RemoveFromCartBtn from '../../components/RemoveFromCartBtn';
 
 function Product() {
-	const data = useProductsData((state) => state.data);
 	const location = useLocation();
 	const index = location.state.index;
+	const data = useProductsData((state) => state.data);
 	const product = data[index];
 	const cartItems = useCartItems((state) => state.cartItems);
-	const addToCart = useCartItems((state) => state.addToCart);
-	const removeFromCart = useCartItems((state) => state.removeFromCart);
-	const inCart = isInCart(product);
-	const setUserAction = useAlerts((state) => state.setUserAction);
-
-	function getItemFromCart(id) {
-		for (let item of cartItems) if (item.id === id) return item;
-	}
-	function isInCart(product) {
-		for (let item of cartItems) if (item.id === product.id) return true;
-		return false;
-	}
-	function handleCartClick(id, inCart) {
-		if (inCart === true) {
-			const item = getItemFromCart(id);
-			removeFromCart(item);
-			setUserAction({ type: 'remove', id: Date.now() });
-		} else {
-			addToCart({ ...product, quantity: 1 });
-			setUserAction({ type: 'add', id: Date.now() });
-		}
-	}
+	const inCart = isInCart(product.id, cartItems);
 
 	useEffect(() => {
 		window.scrollTo(0, 0);
@@ -47,7 +25,7 @@ function Product() {
 					<img
 						src={product.original_picture_url}
 						alt=""
-						className="max-w-75"
+						className="h-[250px] max-w-75"
 					/>
 				</div>
 				<ul className="sizes flex flex-wrap justify-center gap-3">
@@ -91,16 +69,12 @@ function Product() {
 				<p className="mb-3 text-xl/9 text-gray-900">
 					{product.story_html}
 				</p>
-				<div className="">
-					<button
-						className={`${!inCart ? 'bg-black hover:bg-black/90' : 'bg-red-600 hover:bg-red-500'} me-1.5 px-6 py-3 text-xl font-light text-white uppercase transition hover:cursor-pointer`}
-						onClick={() => handleCartClick(product.id, inCart)}
-					>
-						{!inCart ? 'add to cart' : 'remove from cart'}
-					</button>
-					<button className="bg-green-900 px-4 py-3 text-xl font-bold text-white transition hover:cursor-pointer hover:bg-green-800">
-						<FontAwesomeIcon icon={faHeart} fill="true" />
-					</button>
+				<div>
+					{inCart ? (
+						<RemoveFromCartBtn id={product.id} />
+					) : (
+						<AddToCartBtn product={product} />
+					)}
 				</div>
 			</div>
 		</div>

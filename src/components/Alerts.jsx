@@ -2,27 +2,31 @@ import Alert from './Alert.jsx';
 import { useAlerts } from '../stores';
 import { useEffect } from 'react';
 function Alerts() {
-	const userAction = useAlerts((state) => state.userAction);
+	const newAlert = useAlerts((state) => state.newAlert);
 	const alerts = useAlerts((state) => state.alerts);
 	const shiftAlerts = useAlerts((state) => state.shiftAlerts);
 	const pushAlerts = useAlerts((state) => state.pushAlerts);
 
 	useEffect(() => {
-		if (userAction !== '') {
-			pushAlerts(userAction);
+		if (newAlert !== null) {
+			pushAlerts(newAlert);
 			const timeOutId = setTimeout(() => {
 				shiftAlerts();
 				clearTimeout(timeOutId);
 			}, 3000);
 		}
 		// eslint-disable-next-line react-hooks/exhaustive-deps
-	}, [userAction]);
+	}, [newAlert]);
 
 	return (
-		<div className="start-inset-0 pointer-events-none fixed top-10 z-50 w-full">
-			{alerts.map((alert) => (
-				<Alert type={alert.type} key={alert.id} />
-			))}
+		<div className="pointer-events-none fixed top-10 right-0 z-50 w-1/3">
+			<ul className="flex list-none flex-col items-end justify-end p-3">
+				{alerts.map((alert) => (
+					<li key={alert.key}>
+						<Alert type={alert.type} text={alert.text} />
+					</li>
+				))}
+			</ul>
 		</div>
 	);
 }

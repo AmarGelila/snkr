@@ -1,5 +1,6 @@
 import { useCartItems } from '../../stores';
-import CartItem from './components/cart-item.jsx';
+import { lazy } from 'react';
+const CartItem = lazy(() => import('./components/cart-item.jsx'));
 
 function Cart() {
 	const cartItems = useCartItems((state) => state.cartItems);
