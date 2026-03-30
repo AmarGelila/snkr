@@ -24,8 +24,10 @@ function Product() {
 				<div className="image flex grow-1 items-center justify-center">
 					<img
 						src={product.original_picture_url}
-						alt=""
+						alt={product.name}
 						className="h-[250px] max-w-75"
+						width={250}
+						height={250}
 					/>
 				</div>
 				<ul className="sizes flex flex-wrap justify-center gap-3">

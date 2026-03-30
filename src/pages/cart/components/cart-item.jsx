@@ -16,6 +16,8 @@ const CartItem = memo(({ product }) => {
 					src={product.main_picture_url}
 					alt={product.name}
 					className="w-50"
+					width={200}
+					height={200}
 				/>
 			</div>
 			<div className="mb-3 p-3">

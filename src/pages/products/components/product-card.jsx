@@ -31,8 +31,10 @@ const ProductCard = memo(({ product, index }) => {
 					<div className="mt-6 flex justify-center p-2">
 						<img
 							src={product.grid_picture_url}
-							alt="product image"
+							alt={product.name}
 							className="w-50"
+							width={200}
+							height={200}
 							loading="lazy"
 						/>
 					</div>
